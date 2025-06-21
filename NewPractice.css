@@ -1,0 +1,54 @@
+header{
+  text-align: center;
+}
+
+#name{
+  border: 2px solid black;
+  display: inline-block;
+}
+
+#about{
+  text-align: left; 
+  margin-top: 20px;
+}
+
+p{
+  text-align: center;
+  text-transform: capitalize;
+  border: 2px solid black;
+  font-weight: 900;
+  font-style: italic;
+}
+
+#display{
+  margin-top: 30px;
+
+}
+
+#about{
+  text-align: center  ;
+}
+
+#abouttext{
+  text-decoration: underline;
+}
+
+#displaywork{
+  margin-top: 30px;
+  
+}
+
+.Project{
+  margin-top: 30px;
+  margin-left: 220px;
+  margin-right: 40px;
+  background-color: blanchedalmond;
+  border: 2px solid black;
+  width: 100px;
+  height: 50px;
+display: inline-block;
+text-align: center;
+padding: 40px 40px;
+
+}
+
